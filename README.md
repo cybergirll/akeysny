@@ -8,7 +8,7 @@
 I'm **Anna** from Ukraine, I do content on Cyber and Secure Cloud Computing. I really enjoy wep app security and sharing foundational knowledge matched with offensive and defensive skills developed through hands on experience. I also enjoy learning about MacOS security as well as Design and Development in general. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akeysny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anna-taylor-cyberblog//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://akeysny.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akeysny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-taylor-cyberblog/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://akeysny.github.io/)  
 
 ## Skills and Experience
 
