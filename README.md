@@ -1,8 +1,8 @@
-![Cybersecurity and Consulting. ](https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/252061283_10226141222414255_153101295971022444_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=VzQZ6xVtOVAAX_XXMDO&_nc_ht=scontent-lga3-2.xx&oh=167d1497b1b1f8c25c1dde5c163691f1&oe=619409EC)
+![Cybersecurity and Consulting. ](https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/199146264_10225239998044209_833884396507503307_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=XZn7bhbRI8wAX8mRWGE&tn=hjS-rIa779StrYiQ&_nc_ht=scontent-lga3-2.xx&oh=bf9143ea03ae93f391f5301fa376c91e&oe=61B5A761)
 
 
 # Hi there 👋, I'm Ann T
-## Cybersecurity and Consulting. 
+## Cybersecurity and Consulting | CTF Player | Black Hat USA 2021 EWF Scholar | Muscle Car 🏎 Enthusiast 
 
 
 I'm **Anna** from Ukraine, I do content on Cyber and Secure Cloud Computing. I really enjoy Web App Security and sharing foundational knowledge matched with offensive and defensive skills developed through hands on experience. I also enjoy learning about MacOS security as well as Design and Development in general. 
@@ -16,6 +16,11 @@ I'm **Anna** from Ukraine, I do content on Cyber and Secure Cloud Computing. I r
 * 📱 SWIFT
 * 💻 HTML, CSS
 * ☁️ GCP
+
+## Examples of Work
+
+<img src="http://g.recordit.co/09BDz7bhcg.gif" width="256" />
+<img src="http://g.recordit.co/k1EOcFNtjq.gif" width=256><br>
 
 
 - 🔭 I’m currently working on this page. 
