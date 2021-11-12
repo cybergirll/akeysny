@@ -2,7 +2,7 @@
 
 
 # Hi there 👋, I'm Ann T
-## Cybersecurity and Consulting | CTF Player | Black Hat USA 2021 EWF Scholar | Muscle Car 🏎 Enthusiast 
+## Cybersecurity ⌨️ and Consulting | CTF 🏁 Player | Black Hat 🎩 USA 2021 EWF Scholar | Muscle Car 🏎 Enthusiast 
 
 
 I'm **Anna** from Ukraine, I do content on Cyber and Secure Cloud Computing. I really enjoy Web App Security and sharing foundational knowledge matched with offensive and defensive skills developed through hands on experience. I also enjoy learning about MacOS security as well as Design and Development in general. 
