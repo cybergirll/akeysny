@@ -34,7 +34,7 @@ I'm **Anna** from NYC 🗽, I do content on Cyber and Secure Cloud Computing. I 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeysny&theme=dracula" alt="akeysny" /></a> </p>
 
 
-- 🔭 I’m currently working on **Secure Cloud Computing project**
+- 🔭 I’m currently working on **Secure Cloud Computing project** and launching my **First Ebook** 👩🏻‍🏫
 
 - 🌱 I’m currently learning **React, Flask and Nodejs**
 
