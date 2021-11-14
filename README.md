@@ -38,7 +38,7 @@ I'm **Anna** from NYC 🗽, I do content on Cyber and Secure Cloud Computing. I 
 
 - 🌱 I’m currently learning **React, Flask and Nodejs**
 
-- 📝 I regularly write articles on [Cyber](https://akeysny.github.io/about)
+- 📝 I regularly write articles on [Cyber](https://akeysny.github.io/posts/)
 
 - 💬 Ask me about **Web App Security**
 
