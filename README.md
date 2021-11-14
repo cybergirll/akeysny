@@ -42,7 +42,7 @@ I'm **Anna** from NYC 🗽, I do content on Cyber and Secure Cloud Computing. I 
 
 - 💬 Ask me about **Web App Security**
 
-- 📫 How to [reach me](annataylorcyber@gmail.com)
+- 📫 How to [reach me](https://akeysny.github.io/about)
 
 - ⚡ Fun fact 🤩 that I am a **gifted pianist**. 🎹
 
