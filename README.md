@@ -23,7 +23,7 @@ I'm **Anna** from NYC 🗽, I do content on Cyber and Secure Cloud Computing. I 
 <img src="http://g.recordit.co/k1EOcFNtjq.gif" width=256><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybergirll&theme=dracula&show_icons=true?username=akeysny&count_private=true?username=akeysny&show_icons=true?username=akeysny&hide=stars,prs))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybergirll&theme=dracula&show_icons=true?username=cybergirll&count_private=true?username=cybergirll&show_icons=true?username=akeysny&hide=stars,prs))
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akeysny&langs_count=10?username=cybergirll&theme=dracula&show_icons=true)](https://github.com/akeysny/github-readme-stats?username=akeysny&theme=dracula&show_icons=true)
