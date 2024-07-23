@@ -23,10 +23,10 @@ I'm **Anna** from NYC 🗽, I do content on Cyber and Secure Cloud Computing. I 
 <img src="http://g.recordit.co/k1EOcFNtjq.gif" width=256><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeysny&theme=dracula&show_icons=true?username=akeysny&count_private=true?username=akeysny&show_icons=true?username=akeysny&hide=stars,prs))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybergirll&theme=dracula&show_icons=true?username=akeysny&count_private=true?username=akeysny&show_icons=true?username=akeysny&hide=stars,prs))
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akeysny&langs_count=10?username=akeysny&theme=dracula&show_icons=true)](https://github.com/akeysny/github-readme-stats?username=akeysny&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akeysny&langs_count=10?username=cybergirll&theme=dracula&show_icons=true)](https://github.com/akeysny/github-readme-stats?username=akeysny&theme=dracula&show_icons=true)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeysny&theme=dracula" alt="akeysny" /></a> </p>
